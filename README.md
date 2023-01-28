@@ -1,4 +1,4 @@
-Hello this project is to change the MAC - Media Access Control Adress of the computer 
+Hello this project is to change the MAC - Media Access Control Address of the computer 
 
 
 its very simple to use and 
